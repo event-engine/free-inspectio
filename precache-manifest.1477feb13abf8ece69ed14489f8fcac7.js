@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4af326fa177641ded18f",
+    "revision": "405c5b5256f2917e622f",
     "url": "https://event-engine.io/free-inspectio/static/css/main.4d17e73b.chunk.css"
   },
   {
-    "revision": "4af326fa177641ded18f",
-    "url": "https://event-engine.io/free-inspectio/static/js/main.4af326fa.chunk.js"
+    "revision": "405c5b5256f2917e622f",
+    "url": "https://event-engine.io/free-inspectio/static/js/main.405c5b52.chunk.js"
   },
   {
     "revision": "de4e7f04b4ad69f8167f",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "https://event-engine.io/free-inspectio/static/media/cody.63c5836d.svg"
   },
   {
-    "revision": "5945664a9bf1039906b39286e01b3546",
+    "revision": "5bce88e8bb76a03901409ea297577f9e",
     "url": "https://event-engine.io/free-inspectio/index.html"
   }
 ];
