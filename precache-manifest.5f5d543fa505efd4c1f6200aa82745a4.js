@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "83cb743decf918454cbb",
-    "url": "https://event-engine.io/free-inspectio/static/css/main.4d17e73b.chunk.css"
+    "revision": "d52edcd7e97bcb60d124",
+    "url": "https://event-engine.io/free-inspectio/static/css/main.a058b900.chunk.css"
   },
   {
-    "revision": "83cb743decf918454cbb",
-    "url": "https://event-engine.io/free-inspectio/static/js/main.83cb743d.chunk.js"
+    "revision": "d52edcd7e97bcb60d124",
+    "url": "https://event-engine.io/free-inspectio/static/js/main.d52edcd7.chunk.js"
   },
   {
-    "revision": "6cc8a6880940b540d664",
-    "url": "https://event-engine.io/free-inspectio/static/css/1.b13c8dc6.chunk.css"
+    "revision": "8081557b728e60da849a",
+    "url": "https://event-engine.io/free-inspectio/static/css/1.1fc8dabe.chunk.css"
   },
   {
-    "revision": "6cc8a6880940b540d664",
-    "url": "https://event-engine.io/free-inspectio/static/js/1.6cc8a688.chunk.js"
+    "revision": "8081557b728e60da849a",
+    "url": "https://event-engine.io/free-inspectio/static/js/1.8081557b.chunk.js"
   },
   {
     "revision": "98e3a28639ce2a2ffc03",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "https://event-engine.io/free-inspectio/static/media/cody.63c5836d.svg"
   },
   {
-    "revision": "c8fb4450bf50d4c5cea825d3eb730816",
+    "revision": "d52831bfaf8fc23337e2aac86ad9d0a1",
     "url": "https://event-engine.io/free-inspectio/index.html"
   }
 ];
